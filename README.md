@@ -180,10 +180,4 @@ final_results = rerank_documents("Do you have ethnic wear?", results, top_n=3)
 ## Author
 
 **Your Name** – [Nitish Narayanan] https://github.com/nitishnarayanan002
-
-```
-
-
-
-Do you want me to do that?
 ```
